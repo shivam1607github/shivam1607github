@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">Passionate full stack web developer, coding for the 6 to 7 hr constant, love to travel & play outdoors games.</h3>
 
-<img align = “left” alt=“coding” width = "400" src ="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/200w.gif?cid=6c09b9525t3tuskmn6g37280aagh5h7ztdcy07rqsrv1dd4l&ep=v1_gifs_search&rid=200w.gif&ct=g" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam1607github&label=Profile%20views&color=0e75b6&style=flat" alt="shivam1607github" /> </p>
 
